@@ -1,0 +1,17 @@
+{
+  "name": "cite2fn",
+  "owner": {
+    "name": "Anita Srinivasan"
+  },
+  "metadata": {
+    "description": "Convert social-science citations in Word documents to Bluebook-formatted footnotes or endnotes"
+  },
+  "plugins": [
+    {
+      "name": "cite2fn",
+      "source": ".",
+      "description": "Convert hyperlinked citations in Word documents to Bluebook-formatted footnotes or endnotes",
+      "license": "MIT"
+    }
+  ]
+}
